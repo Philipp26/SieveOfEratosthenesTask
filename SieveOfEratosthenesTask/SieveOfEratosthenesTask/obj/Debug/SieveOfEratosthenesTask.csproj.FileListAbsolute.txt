@@ -1,0 +1,19 @@
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe.config
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.pdb
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.csprojResolveAssemblyReference.cache
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.exe
+c:\users\ф\documents\visual studio 2017\Projects\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.pdb
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe.config
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.pdb
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.csprojResolveAssemblyReference.cache
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.exe
+E:\Учеба\практика Подхалюзин\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.pdb
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe.config
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.exe
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\bin\Debug\SieveOfEratosthenesTask.pdb
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.csprojAssemblyReference.cache
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.csproj.CoreCompileInputs.cache
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.exe
+E:\Учеба\Практика\практика Подхалюзин первая часть\SieveOfEratosthenesTask\SieveOfEratosthenesTask\obj\Debug\SieveOfEratosthenesTask.pdb
